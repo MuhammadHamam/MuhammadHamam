@@ -5,6 +5,8 @@
 I'm a self-taught Data Scientist from Pakistan, building
 real-world machine learning projects with Python.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Self-taught+Data+Scientist;Building+real-world+ML+projects;Python+%7C+NLP+%7C+Scikit-learn)](https://git.io/typing-svg)
+
 ---
 
 ## Skills
