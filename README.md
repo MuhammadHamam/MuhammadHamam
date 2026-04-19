@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Muhammad%20Hamam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=16)
+![header]<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-hamam-b90455374/">
